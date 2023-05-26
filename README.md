@@ -21,6 +21,5 @@ This repository holds my works on machine learning for the Diabetes Checker proj
 The project achieved an accuracy of 85% on the test set.
 ## GUI interface
 Created a web page using python flask framework to get user friendly interface .
-![Output image](YES_inputs.png)
 
 
