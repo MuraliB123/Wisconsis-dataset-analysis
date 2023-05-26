@@ -1,4 +1,4 @@
-# Machine Learning - Breast dataset analysis
+# Machine Learning - wisconsin  dataset analysis
  The project aims to provide an easy monitoring system to detect the chances of breast cancer disease among women.
 
 ## Approach
