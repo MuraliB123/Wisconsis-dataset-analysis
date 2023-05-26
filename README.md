@@ -1,6 +1,5 @@
 # Machine Learning - Breast dataset analysis
-
-This repository holds my works on machine learning for the Diabetes Checker project. The project aims to provide an easy monitoring system to detect the chances of breast care among women.
+ The project aims to provide an easy monitoring system to detect the chances of breast care among women.
 
 ## Approach
 
